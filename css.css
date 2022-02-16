@@ -1,0 +1,47 @@
+.contenedor-imagen{
+    text-align: center;
+    margin: 1em auto;
+    align-self: center;
+}
+
+.contenedor-links{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.informacion{
+    margin: 5%;
+}
+
+h1{
+    margin: 5%;
+}
+
+img{
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(224, 224, 252);
+}
+
+ul{
+    list-style-position: inside;
+    align-self: center;
+}
+
+.polaroid {
+    max-width: 400px;
+    background-color: white;
+    text-align: center;
+    margin:auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  iframe{
+      width:350px;
+      height: 200px;
+  }
